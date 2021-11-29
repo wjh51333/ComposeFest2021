@@ -1,4 +1,4 @@
-package com.ssafy.basicscodelab
+package com.codelab.basics
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.ssafy.basicscodelab.ui.theme
+package com.codelab.basics.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
